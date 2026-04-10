@@ -4,7 +4,7 @@ const TIMEZONES = [
   {
     name: "Berlin, Germany",
     timezoneId: "Europe/Berlin",
-    expectedTime: "Friday, October 25, 2024 at 4:05 PM",
+    expectedTime: "Friday, October 25, 2024 at 4:00 PM",
   },
   {
     name: "NYC, USA",
